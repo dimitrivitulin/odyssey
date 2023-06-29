@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1687948013 source:d:\formations\ajc-akkodis\9- programmation c++\tps c++\nouveau dossier\class_controler_v1.1_ajout_persos_et_code_plus_modulaire\fonctions.cpp
+	"fonctions.h"
+
+1687893312 d:\formations\ajc-akkodis\9- programmation c++\tps c++\nouveau dossier\class_controler_v1.1_ajout_persos_et_code_plus_modulaire\fonctions.h
+	<iostream>
+	<fstream>
+	<string>
+	"Controleur.h"
+
+1687952937 d:\formations\ajc-akkodis\9- programmation c++\tps c++\nouveau dossier\class_controler_v1.1_ajout_persos_et_code_plus_modulaire\controleur.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	"Mission.h"
+	"Planet.h"
+	"Spaceship.h"
+
+1687867358 d:\formations\ajc-akkodis\9- programmation c++\tps c++\nouveau dossier\class_controler_v1.1_ajout_persos_et_code_plus_modulaire\mission.h
+	<iostream>
+	<string>
+	<vector>
+
+1687891676 d:\formations\ajc-akkodis\9- programmation c++\tps c++\nouveau dossier\class_controler_v1.1_ajout_persos_et_code_plus_modulaire\planet.h
+	<iostream>
+	<string>
+	<vector>
+	"Personnage.h"
+
+1687892788 d:\formations\ajc-akkodis\9- programmation c++\tps c++\nouveau dossier\class_controler_v1.1_ajout_persos_et_code_plus_modulaire\personnage.h
+	<iostream>
+	<string>
+	"Spaceship.h"
+	"Planet.h"
+
+1687953512 d:\formations\ajc-akkodis\9- programmation c++\tps c++\nouveau dossier\class_controler_v1.1_ajout_persos_et_code_plus_modulaire\spaceship.h
+	<iostream>
+	<string>
+	<vector>
+	"Personnage.h"
+	"Mission.h"
+
+1687954369 source:d:\formations\ajc-akkodis\9- programmation c++\tps c++\nouveau dossier\class_controler_v1.1_ajout_persos_et_code_plus_modulaire\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	"Personnage.h"
+	"Spaceship.h"
+	"Planet.h"
+	"Mission.h"
+	"fonctions.h"
+	"Controleur.h"
+
+1687867416 source:d:\formations\ajc-akkodis\9- programmation c++\tps c++\nouveau dossier\class_controler_v1.1_ajout_persos_et_code_plus_modulaire\mission.cpp
+	"Mission.h"
+
+1687892750 source:d:\formations\ajc-akkodis\9- programmation c++\tps c++\nouveau dossier\class_controler_v1.1_ajout_persos_et_code_plus_modulaire\personnage.cpp
+	"Personnage.h"
+
+1687875768 source:d:\formations\ajc-akkodis\9- programmation c++\tps c++\nouveau dossier\class_controler_v1.1_ajout_persos_et_code_plus_modulaire\planet.cpp
+	"Planet.h"
+
+1687948003 source:d:\formations\ajc-akkodis\9- programmation c++\tps c++\nouveau dossier\class_controler_v1.1_ajout_persos_et_code_plus_modulaire\spaceship.cpp
+	"Spaceship.h"
+	"Personnage.h"
+	<vector>
+
+1687954105 source:d:\formations\ajc-akkodis\9- programmation c++\tps c++\nouveau dossier\class_controler_v1.1_ajout_persos_et_code_plus_modulaire\controleur.cpp
+	"Controleur.h"
+
+1687955924 source:c:\users\dvitu\downloads\class_controler_v1.2_pointeurs_avec_sylvain\class_controler_v1.2_pointeurs_avec_sylvain\fonctions.cpp
+	"fonctions.h"
+
+1687955924 c:\users\dvitu\downloads\class_controler_v1.2_pointeurs_avec_sylvain\class_controler_v1.2_pointeurs_avec_sylvain\fonctions.h
+	<iostream>
+	<fstream>
+	<string>
+	"Controleur.h"
+
+1687955924 c:\users\dvitu\downloads\class_controler_v1.2_pointeurs_avec_sylvain\class_controler_v1.2_pointeurs_avec_sylvain\controleur.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	"Mission.h"
+	"Planet.h"
+	"Spaceship.h"
+
+1687955924 c:\users\dvitu\downloads\class_controler_v1.2_pointeurs_avec_sylvain\class_controler_v1.2_pointeurs_avec_sylvain\mission.h
+	<iostream>
+	<string>
+	<vector>
+
+1687955924 c:\users\dvitu\downloads\class_controler_v1.2_pointeurs_avec_sylvain\class_controler_v1.2_pointeurs_avec_sylvain\planet.h
+	<iostream>
+	<string>
+	<vector>
+	"Personnage.h"
+
+1687955924 c:\users\dvitu\downloads\class_controler_v1.2_pointeurs_avec_sylvain\class_controler_v1.2_pointeurs_avec_sylvain\personnage.h
+	<iostream>
+	<string>
+	"Spaceship.h"
+	"Planet.h"
+
+1687955924 c:\users\dvitu\downloads\class_controler_v1.2_pointeurs_avec_sylvain\class_controler_v1.2_pointeurs_avec_sylvain\spaceship.h
+	<iostream>
+	<string>
+	<vector>
+	"Personnage.h"
+	"Mission.h"
+
+1687955924 source:c:\users\dvitu\downloads\class_controler_v1.2_pointeurs_avec_sylvain\class_controler_v1.2_pointeurs_avec_sylvain\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	"Personnage.h"
+	"Spaceship.h"
+	"Planet.h"
+	"Mission.h"
+	"fonctions.h"
+	"Controleur.h"
+
+1687955924 source:c:\users\dvitu\downloads\class_controler_v1.2_pointeurs_avec_sylvain\class_controler_v1.2_pointeurs_avec_sylvain\mission.cpp
+	"Mission.h"
+
+1687955924 source:c:\users\dvitu\downloads\class_controler_v1.2_pointeurs_avec_sylvain\class_controler_v1.2_pointeurs_avec_sylvain\personnage.cpp
+	"Personnage.h"
+
+1687955924 source:c:\users\dvitu\downloads\class_controler_v1.2_pointeurs_avec_sylvain\class_controler_v1.2_pointeurs_avec_sylvain\planet.cpp
+	"Planet.h"
+
+1687955924 source:c:\users\dvitu\downloads\class_controler_v1.2_pointeurs_avec_sylvain\class_controler_v1.2_pointeurs_avec_sylvain\spaceship.cpp
+	"Spaceship.h"
+	"Personnage.h"
+	<vector>
+
